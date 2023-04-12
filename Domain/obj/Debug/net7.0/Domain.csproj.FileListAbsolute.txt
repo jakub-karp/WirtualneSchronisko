@@ -1,0 +1,24 @@
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\barte\source\repos\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\kuba\OneDrive\UMK\ROK3\ZESPOLOWE\na zajecia\WirtualneSchroniskoNoSql\Domain\obj\Debug\net7.0\ref\Domain.dll
