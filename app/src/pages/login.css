@@ -1,0 +1,39 @@
+.fgroup{
+    margin: auto;
+    width: 30%;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+@media only screen and (max-width: 600px){
+    .fgroup{
+        width: 70%;
+    }
+}
+.formularz{
+    text-align: center;
+    margin-top: 50px;
+}
+Form{
+    margin-top: 30px;
+}
+
+.btnl{
+    margin: auto;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    outline-color: orange-500;
+    width: 160px;
+}
+.rej{
+    margin-top: 10px;
+    font-size: 16px;
+}
+.link{
+    color: #ffc107;
+    text-decoration: none;
+}
+.buttonform{
+    text-align: center;
+    margin-top: 40px;
+}

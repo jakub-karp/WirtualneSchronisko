@@ -1,0 +1,142 @@
+.bodyadopt {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.cards {
+    margin-top: 10px;
+    width: 100%;
+    margin-right: auto;
+}
+
+
+.card {
+    width: 20%;
+    float: left;
+    margin: 2%;
+    box-shadow: 0 0 10px 1px lightgray;
+}
+
+.searchcol{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+
+
+.card-img {
+    margin: 5%;
+    width: 90%;
+    height: 250px;
+}
+
+.card-title {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+}
+
+.card-age {
+    text-align: center;
+}
+
+.btnadpt {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    border-radius: 20px;
+    outline-color: var(--primary-color);
+    font-weight: bold;
+}
+
+.filter-form {
+    width: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.search {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+
+.btnsearch {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.label-search{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.btn-outline-success{
+    font-weight: bold;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: var(--secondary-color);
+    color: var(--secondary-color);
+}
+
+.btn-outline-success:hover{
+    color: white;
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    margin: auto;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .bodyadopt {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cards{
+        width: 90%;
+        margin-top: 25px;
+    }
+
+    .card {
+        width: 80%;
+        margin: 10%;
+    }
+
+    .filter-form {
+        width: 90%;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+    }
+
+    .search {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .label-breed {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .breed {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .btnsearch {
+        margin-top: 20px;
+        width: 100%;
+    }
+}

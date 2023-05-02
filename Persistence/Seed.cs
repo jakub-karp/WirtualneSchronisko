@@ -80,7 +80,7 @@ namespace Persistence
                     {
                         new Animal
                         {
-                            InternalId = "1a",
+                            InternalId = "2a",
                             Race = "Pies",
                             Type = "Golden Retriver",
                             AdmittanceDate = DateTime.Parse("15 grudnia 2022", cultureInfo),
@@ -96,7 +96,7 @@ namespace Persistence
                         },
                         new Animal
                         {
-                            InternalId = "1b",
+                            InternalId = "2b",
                             Race = "Kot",
                             Type = "Mieszaniec",
                             AdmittanceDate = DateTime.Parse("15 stycznia 2022", cultureInfo),
@@ -125,7 +125,7 @@ namespace Persistence
                     {
                         new Animal
                         {
-                            InternalId = "1a",
+                            InternalId = "3a",
                             Race = "Pies",
                             Type = "Buldog Angielski",
                             AdmittanceDate = DateTime.Parse("12 luty 2020", cultureInfo),
@@ -141,7 +141,7 @@ namespace Persistence
                         },
                         new Animal
                         {
-                            InternalId = "1b",
+                            InternalId = "3b",
                             Race = "Kot",
                             Type = "Mieszaniec",
                             AdmittanceDate = DateTime.Parse("25 luty 2023", cultureInfo),

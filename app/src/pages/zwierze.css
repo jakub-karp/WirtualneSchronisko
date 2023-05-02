@@ -1,0 +1,88 @@
+
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    margin: auto;
+    font-size: 18px;
+  }
+  
+  .zwierzebd{
+    width: 80%;
+    margin: auto;
+
+  }
+
+  .name{
+    background-color: var(--secondary-color);
+    height: 150px;
+    padding: auto;
+    text-align: center;
+    
+  }
+  .nametekst{
+    line-height: 150px;
+    color: white;
+    font-size: 64px;
+  }
+  .zdjecieiatrybuty{
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+    
+    
+  }
+  .atrybuty{
+    font-size: 25px;
+    margin-bottom: 40px;
+  }
+
+.miejscezdjecia{
+    text-align: center;
+}
+
+  .zdjecie{
+    
+    box-shadow: 0 0 10px 1px lightgray;
+  }
+
+  .opisidane{
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+  }
+  .opis{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .daneschroniska{
+    margin-left: 10%;
+  }
+  .btnwsp{
+    margin: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    border-radius: 20px;
+    outline-color: var(--primary-color);
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  @media only screen and (max-width: 1000px){
+    .zdjecieiatrybuty{
+        display: block;
+    }
+    .atrybuty{
+        margin-top: 50px;
+    }
+
+    .opisidane{
+        display: block;
+    }
+    .daneschroniska{
+        margin-top: 50px;
+    }
+  }
