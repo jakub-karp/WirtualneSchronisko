@@ -23,6 +23,7 @@ const Zwierze = () => {
             foundPet = {
               ...animal.decscription,
               race: animal.race,
+              type: animal.type,
               shelter: {
                 name: shelter.name,
                 city: shelter.city,
