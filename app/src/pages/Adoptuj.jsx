@@ -156,7 +156,7 @@ return (
                 <Card className='card' key={index}>
                   <Card.Img className='card-img' variant='top' src={pet.decscription.image} />
                   <Card.Title className='card-title'>{pet.decscription.name}</Card.Title>
-                  <Card.Text className='card-age'>{pet.age} {pet.age === 1 ? "rok" : (pet.age % 10 >= 2 && pet.age % 10 <= 4 && (pet.age % 100 < 10 || pet.age % 100 >= 20) ? "lata" : "lat")}</Card.Text>
+                  <Card.Text className='card-age'>{pet.decscription.age} {pet.decscription.age === 1 ? "rok" : (pet.decscription.age % 10 >= 2 && pet.decscription.age % 10 <= 4 && (pet.decscription.age % 100 < 10 || pet.decscription.age % 100 >= 20) ? "lata" : "lat")}</Card.Text>
                   <Button className='btnadpt' variant='outline-warning' onClick={() => handleAdoptClick(pet)}>Adoptuj!</Button>
                 </Card>
               )
