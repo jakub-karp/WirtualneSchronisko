@@ -154,6 +154,22 @@ namespace Persistence
                                 AdditionalInfo = "Kot Familijny",
                                 Image = "http://schronisko.kubakarp.pl/pliki/img/kot3.jpg"
                             }
+                        },
+                        new Animal
+                        {
+                            InternalId = "4a",
+                            Race = "Pies",
+                            Type = "Golden Retriever",
+                            AdmittanceDate = DateTime.Parse("12 luty 2022", cultureInfo),
+                            Decscription = new AnimalDescription
+                            {
+                                Name="Złotek",
+                                Age=1,
+                                Gender = "Samiec",
+                                Size ="Średnich rozmiarów",
+                                AdditionalInfo = "Bardzo potulny charyzmatyczny piesek",
+                                Image = "https://cdn.pixabay.com/photo/2019/07/30/05/53/dog-4372036_960_720.jpg"
+                            }
                         }
                     }
                 },
